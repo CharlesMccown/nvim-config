@@ -36,6 +36,9 @@ require("lazy").setup({
 		"L3MON4D3/LuaSnip",
 		version = "v2.*",
 	},
+    "williambowman/mason.nvim",
+    "williambowman/mason-lspconfig.nvim",
+    "neovim/nvim-lspconfig",
     "tanvirtin/monokai.nvim",
 })
 
